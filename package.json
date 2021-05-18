@@ -1,8 +1,8 @@
 {
   "port": 5013,
-  "name": "PublicWiki",
-  "userName": "林一二",
-  "privateWikiName": "private-MyTiddlyWiki",
+  "name": "QuesWiki",
+  "userName": "Jacques",
+  "privateWikiName": "private-QuesWiki",
   "version": "1.0.0",
   "scripts": {
     "install:wikiServer": "node -e \"require('./scripts/installServer').install()\"",
