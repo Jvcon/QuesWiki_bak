@@ -24,7 +24,11 @@
     "tiddlywiki/sax",
     "tiddlywiki/text-slicer",
     "sitemap",
-    "prevent-edit"
+    "prevent-edit",
+    "tiddlymap",
+    "vis",
+    "hotzone",
+    "topstoryview"
   ],
   "themes": ["tiddlywiki/vanilla"],
   "languages": ["zh-Hans"],
