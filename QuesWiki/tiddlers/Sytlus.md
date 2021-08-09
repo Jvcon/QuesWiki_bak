@@ -1,0 +1,4 @@
+- [Stylus Dark](https://userstyles.org/styles/153739/stylus-dark-shadowfox)
+- [Google Darkest Fusion](https://userstyles.org/styles/167419/google-darkest-fusion-configurable)
+- [Baidu Lite](https://userstyles.org/styles/171057/baidu-lite)
+- [Weibo V7](https://userstyles.org/styles/106272/weibo-v7)

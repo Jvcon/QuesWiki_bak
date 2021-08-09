@@ -1,0 +1,40 @@
+created: 20210421032900570
+creator: Jacques
+modified: 20210519022632188
+modifier: Jacques
+tags: 
+title: 对象发布_任务
+tmap.id: 90488955-24dd-40ad-be38-5efeb975003e
+type: text/vnd.tiddlywiki
+
+[[plantuml[ 
+@startmindmap
+* 外卖任务
+++ 品牌
+++ 门店
+++ 渠道
+++ 同步内容
++++ 餐品
+++++ 全部餐品
+++++ 部分餐品
++++ 餐单
++++ 门店
+++++ 无需审核类
+++++ 需要审核类
++++ 预约同步时间
++++ 提醒设置
+@endmindmap
+]]]
+
+[[plantuml[ 
+@startmindmap
+* POS任务
+++ 品牌
+++ 门店
+++ 渠道
+++ 同步内容
++++ 餐单
+++++ 根据渠道选择餐单
++++ 门店
+@endmindmap
+]]]

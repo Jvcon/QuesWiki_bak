@@ -1,0 +1,52 @@
+created: 20210308093446760
+creator: Jacques
+modified: 20210519022633389
+modifier: Jacques
+tags: IDaaS
+title: 账号服务流程图
+tmap.id: 48e463de-424a-480d-a6d2-29c87ba6c938
+type: text/vnd.tiddlywiki
+
+[[plantuml[
+sprite $bProcess jar:archimate/business-process
+sprite $aService jar:archimate/application-service
+sprite $aComponent jar:archimate/application-component
+rectangle "Developer Registration" as rgdev <<$bProcess>><<behavior>> #Business
+rectangle "Development" as dev <<$bProcess>><<behavior>> #Business
+rectangle "Purchase Application" as pcapp <<$bProcess>><<behavior>> #Business
+rectangle "Logn In" as lognin <<$bProcess>><<behavior>> #Business
+rectangle "Resouce Loading" as srcl <<$bProcess>><<behavior>> #Business
+rgdev -right-> dev
+dev -right-> pcapp
+pcapp -right-> lognin
+lognin -right-> srcl
+rectangle "Create Application" as app <<$aService>><<behavior>> #Application
+rectangle "Register Application" as rgapp <<$aService>><<behavior>> #Application
+rectangle "Create/Mapping Account" as ca <<$aService>><<behavior>> #Application
+rectangle "Manage Account" as ma <<$aService>><<behavior>> #Application
+rectangle "Authentication" as au <<$aService>><<behavior>> #Application
+app -right-> rgapp
+rgapp -right-> ca
+ca -right-> ma
+ma -right-> au
+app -up-> rgdev
+app -up-> dev
+rgapp -up-> pcapp
+ca -up-> lognin
+au -up-> lognin
+au -up-> srcl
+rectangle "Developer Center\nSystem" as DCS <<$aComponent>>  #Application
+rectangle "Merchant Center\nSystem" as MCS <<$aComponent>>  #Application
+rectangle "Service Provider" as SP <<$aComponent>>  #Application
+rectangle "Identify Provider" as IDP <<$aComponent>>  #Application
+DCS .up.|> app
+DCS .up.|> rgapp
+MCS .up.|> rgapp
+MCS .up.|> ca
+IDP .up.|> ca
+IDP .up.|> ma
+IDP .up.|> au
+SP .up.|> ma
+SP .up.|> au
+SP .up.|> ca
+]]]

@@ -1,0 +1,34 @@
+created: 20210421033016515
+creator: Jacques
+modified: 20210519022632427
+modifier: Jacques
+tags: 
+title: 对象发布_列表
+tmap.id: c029bb19-90cb-4f37-9db8-236866f0c8b8
+type: text/vnd.tiddlywiki
+
+[[plantuml[ 
+@startmindmap
+* 字段
+++ 同步状态
+++ 是否有异常
+-- 品牌名称
+-- 门店ID
+-- 门店名称
+-- 省市区地址
+-- 外卖平台（目的对象）
+++ 最后同步备注
+++ 最后同步时间
+++ 门店异常状态
+++ 平台门店状态
+++ 系统门店状态
+-- 同步记录（操作）
+--- 同步操作
+--- 操作备注
+--- 同步结果
+--- 结果备注
+--- 同步类型
+--- 操作人
+--- 同步时间
+@endmindmap
+]]]

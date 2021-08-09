@@ -1,0 +1,19 @@
+caption: 5-数据类型
+created: 20210419031646794
+creator: Jacques
+modified: 20210519022632690
+modifier: Jacques
+tags: Python
+title: 数据类型
+tmap.id: f1ad58d7-81ef-421e-947e-5312cbed9669
+type: text/vnd.tiddlywiki
+
+| 类型   | 值           | 变量赋值示例 |
+| 整数int   | 1，100，0xff00 | a = 1        |
+| 浮点数float | 1.23，1.23e9  | a = 1.23     |
+| 字符串str | OK           | a = 'OK'     |
+| 布尔值bool | True，False   | a = True     |
+| 空值   | None         |              |
+
+
+转义字符: <kbd>\n</kbd>表示换行符，<kbd>\t</kbd>表示制表符，字符串中有许多字符需要转移，eg： <kbd>I\'m OK</kbd> ，也可以通过 <kbd>r'I'm OK'</kbd>来实现完整字符串的转移

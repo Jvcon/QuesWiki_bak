@@ -1,0 +1,20 @@
+caption: 4-条件判断
+created: 20210419031557385
+creator: Jacques
+modified: 20210519022632769
+modifier: Jacques
+tags: Python
+title: 条件判断
+tmap.id: b7beb72c-8e37-484f-853c-b5400539d1d6
+type: text/vnd.tiddlywiki
+
+```py
+if <条件判断1>:
+    <执行1>
+elif <条件判断2>:
+    <执行2>
+elif <条件判断3>:
+    <执行3>
+else:
+    <执行4>
+```

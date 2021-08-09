@@ -1,0 +1,30 @@
+caption: 521-Windows
+created: 20190813032834367
+creator: jacques
+icon: $:/images/fa5/brands/windows
+modified: 20210519022631462
+modifier: Jacques
+tags: Platform Windows
+title: Windows
+tmap.id: eaab7bc7-48fb-43cc-87fa-58eb316a4c1f
+type: text/vnd.tiddlywiki
+
+File Manager
+
+<<list-links "[tag[FileManager]tag[Windows]]">>
+
+Compressed
+
+<<list-links "[tag[Compressed]tag[Windows]]">>
+
+Device Management
+<<list-links "[tag[DeviceManagement]tag[Windows]]">>
+
+Audio
+<<list-links "[tag[Audio]tag[Windows]]">>
+
+Multimedia
+<<list-links "[tag[Multimedia]tag[Windows]]">>
+
+Graphic
+<<list-links "[tag[Graphic]tag[Windows]]">>

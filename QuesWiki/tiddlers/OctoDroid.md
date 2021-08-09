@@ -1,0 +1,1 @@
+[Official](https://f-droid.org/zh_Hans/packages/com.gh4a/)

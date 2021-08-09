@@ -1,0 +1,2 @@
+Changsin Living采用的是 SAN（苯乙烯-丙烯腈共聚物）材质，成本高于 PP，拥有比后者更高的透明及硬度，但是耐热性略低于 PP，通常在 100 °C 以内，但同样可以用于微波炉加热。
+[![16a02ddb793c23a7a.md.jpg](https://img.ques.fun/images/2021/06/08/16a02ddb793c23a7a.md.jpg)](https://img.ques.fun/image/f5I)

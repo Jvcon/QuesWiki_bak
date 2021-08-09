@@ -1,0 +1,45 @@
+caption: Book
+created: 20200914091335399
+creator: Jacques
+modified: 20210526061703089
+modifier: Jacques
+sort: 420
+tags: Life
+title: Book
+tmap.id: aad25d0f-747f-4c54-a96e-0765b41ae4f2
+type: text/vnd.tiddlywiki
+
+! Waiting for reading
+
+!! Design
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[Design]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+!! Product Manager
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[Product Manager]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+
+!! Prose
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[Prose]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+!! History
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[History]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+!! Social
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[Social]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+!! Business
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[Business]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+!! Management
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]tag[Management]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+!! Other
+<<list-tagged-draggable tag:"Book" subFilter:"!has[draft.of]!tag[read]!tag[ProductManager]!tag[Design]!tag[Prose]!tag[History]!tag[Social]!tag[Business]" itemTemplate:"BookManagementDraggableTemplate" emptyMessage:"You don't have any active tasks">>
+
+! Read
+
+<$list filter="[!has[draft.of]tag[Book]tag[read]sort[created]]">
+<div>
+<$checkbox tag="read"> ~~<$link/>~~</$checkbox>
+</div>
+</$list>

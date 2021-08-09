@@ -1,0 +1,2 @@
+- http://www.diyplanner.com/
+- https://www.mygraphpaper.com/

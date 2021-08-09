@@ -1,0 +1,65 @@
+created: 20210308093618946
+creator: Jacques
+modified: 20210519022632492
+modifier: Jacques
+tags: IDaaS
+title: 应用与用户类图
+tmap.id: 9ed2ca6e-4a3c-43ab-93be-ff73107152ed
+type: text/vnd.tiddlywiki
+
+[[plantuml[
+class appInfo{
+   appName
+   --
+   appKey
+   appSecrect
+   ==
+   createTamplate()
+}
+class appIds{
+}
+class appTamplate{
+   appName
+   redirectLink
+   authMode
+   --
+   appKey
+   appSecrect
+   --
+   rsa
+}
+appIds -up-> appInfo
+appInfo -> appTamplate 
+appTamplate -> appAccounts
+class appAccounts{
+   userId
+   userName
+   --
+   appKey
+   appSecrect
+   appId
+   --
+   rsa
+}
+class appResources{
+}
+class user{
+   userId
+   userName
+   --
+   appId
+   ==
+   registerApp()
+   --
+   addAppAccount()
+   mappingAppAccount()
+   getAppAccountInfo()
+}
+class structure{
+}
+user -left-> appIds
+user -up-> appAccounts
+appResources -left-> appAccounts
+structure -left-> appAccounts
+user -right-> structure
+]]]

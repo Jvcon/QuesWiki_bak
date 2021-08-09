@@ -1,0 +1,8 @@
+- [Dolphin](https://cn.dolphin-emu.org/) - 模拟wii
+- [ppsspp](http://www.ppsspp.org/) - 模拟PSP
+- [pcsx2](http://pcsx2.net/) - 模拟ps2
+- [fce ultra](http://fceultra.sourceforge.net/) - FC、任天堂红白机模拟器
+- [zsnes](http://www.zsnes.com/) - SFC、超任模拟器
+- [hu-go!](http://freshmeat.net/projects/hu-go/) - PC模拟器官方网站无法访问：http://www.zeograd.com/
+- [epsxe](http://www.epsxe.com/) - PS模拟器
+- [gngeo](http://gngeo.berlios.de/) - KOF模拟器

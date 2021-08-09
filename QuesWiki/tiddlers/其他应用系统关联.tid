@@ -1,0 +1,26 @@
+created: 20200929033135078
+creator: Jacques
+modified: 20210519022631866
+modifier: jacques
+tags: IDaaS
+title: 其他应用系统关联
+tmap.id: 68554da7-0d0f-43a1-b3b6-3cd571a92060
+type: text/vnd.tiddlywiki
+
+[[plantuml[
+@startmindmap
+
+* 其他系统关联
+++ 开发者中心（开发者）
++++ 应用授权模板管理
++++ 密钥获取/更新
+++ 统一门户中心（商家）
++++ 添加/购买应用
++++ 管理账号
+++++ 新增账号（映射账号模式）
+++++ 已有账号（关联账号模式）
++++ 审核账号
++++ 权限管理
+
+@endmindmap
+]]]

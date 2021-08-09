@@ -1,0 +1,36 @@
+caption: Contents
+created: 20190813093352588
+creator: jacques
+list-after: $:/core/ui/SideBar/Open
+modified: 20210601152150272
+modifier: Jacques
+tags: $:/tags/SideBar
+title: TableOfContents
+tmap.id: 3eb9452e-739d-4fa5-bb78-bb8ed9ccc029
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable 'TableOfContents' "sort[sort]">>
+</div>
+
+<div class="tc-table-of-contents">
+Project
+<<toc-selective-expandable "Project" "sort[title]">>
+
+<div class="tc-table-of-contents">
+Resource
+<<toc-selective-expandable "Resource" "sort[caption]">>
+
+<div class="tc-table-of-contents">
+Work
+<<toc-selective-expandable "Candao" "!tag[Inbox]sort[title]">>
+
+<div class="tc-table-of-contents">
+Journal
+<<toc-selective-expandable "Journal" "!title[$:/config/NewJournal/Tags]sort[title]">>
+
+
+<div class="tc-table-of-contents">
+Topic
+<<toc-selective-expandable 'Topic' "sort[caption]">>
+</div>

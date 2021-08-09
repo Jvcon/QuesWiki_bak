@@ -1,0 +1,22 @@
+caption: 👔Capsule Wardrobe
+created: 20210309070042801
+creator: Jacques
+modified: 20210519022631426
+modifier: Jacques
+tags: Project
+title: Wardrobe
+tmap.id: 7fd4d0ea-8cc0-42e3-b17d-e72e9b45883d
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+Pants
+<<toc-selective-expandable "Pants" "sort[title]">>
+Bag
+<<toc-selective-expandable "Bag" "sort[title]">>
+T-Shirt
+<<toc-selective-expandable "T-Shirt" "sort[title]">>
+Shirt
+<<toc-selective-expandable "Shirt" "sort[title]">>
+Shoes
+<<toc-selective-expandable "Shoes" "sort[title]">>
+</div>

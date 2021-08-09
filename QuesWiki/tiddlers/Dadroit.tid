@@ -1,0 +1,15 @@
+caption: Dadroit - 大体积 JSON 文件浏览器
+created: 20190813013134387
+list: 
+modified: 20210519022629591
+tags: Windows JSON Linux MacOS Free
+title: Dadroit
+tmap.id: b571c009-04e9-4c6a-bce1-6ebcfc2cb262
+type: text/vnd.tiddlywiki
+
+Dadroit 是一款专门为大体积 JSON 文件浏览设计的应用，其支持对 GB 级的 JSON 数据进行快速预览和操作。
+
+Dadroit 开发者针对文件的打开和搜索进行了性能对比测试。对于 200 MB 的文件，Dadroit 比 VS Code 快 10 倍，且占用的内存只是 Sublime 的 1/9。对于 2GB 的 JSON 文件，Dadroit 打开共计花费了 3.5 秒，VS Code，Sublime，Notepad++ 等工具则全面崩溃。Dadroit 的性能优越性不言而喻。
+
+
+官网：https://viewer.dadroit.com/

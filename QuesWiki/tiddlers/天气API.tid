@@ -1,0 +1,11 @@
+created: 20210519073704827
+creator: Jacques
+modified: 20210519073732050
+modifier: Jacques
+tags: Resource
+title: 天气API
+tmap.id: 737a6661-1163-4765-9681-483650cc638d
+type: text/vnd.tiddlywiki
+
+* http://wthrcdn.etouch.cn/weather_mini?city=北京市
+* http://wthrcdn.etouch.cn/WeatherApi?city=北京市

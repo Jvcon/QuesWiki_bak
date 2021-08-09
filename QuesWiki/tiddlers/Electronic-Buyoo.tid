@@ -1,0 +1,12 @@
+caption: Electronic
+created: 20200108091309706
+creator: Jacques
+modified: 20210808134239826
+modifier: Jacques
+tags: Buyoo
+title: Electronic-Buyoo
+tmap.id: 25367659-aa33-4cb5-b751-8c61771551cc
+type: text/vnd.tiddlywiki
+
+! Owned Devices
+<<RowTable '[tag[Electronic-Buyoo]tag[Bought]]' "price power port">>

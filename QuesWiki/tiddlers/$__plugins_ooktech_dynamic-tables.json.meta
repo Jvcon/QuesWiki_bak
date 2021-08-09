@@ -1,11 +1,14 @@
 author: ooktech/jed
 core-version: >=5.0.0
 created: 20200605095906986
+creator: Jacques
 dependents: 
 description: A port of ooktech/jed's DynamicTables macro to a plugin, so other plugins can explicitly depend on it
 documentation: https://ooktech.com/jed/ExampleWikis/DynamicTables/
+dummy: 1
 list: readme TableWizard examples
-modified: 20200605095906986
+modified: 20210606081119114
+modifier: Jacques
 plugin-type: plugin
 source: https://github.com/OokTech/TW5-DynamicTables
 title: $:/plugins/ooktech/dynamic-tables

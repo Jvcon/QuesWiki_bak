@@ -1,0 +1,39 @@
+caption: 💊Medicine box
+created: 20210309035431399
+creator: Jacques
+modified: 20210606104036549
+modifier: Jacques
+tags: Buyoo
+title: Medicine
+tmap.id: 564c4b3d-c0b2-4183-9d7b-2c3bb76f9633
+type: text/vnd.tiddlywiki
+
+! 检测工具
+<<list-links "[tag[检测工具]tag[Medicine]]">>
+
+! 止痛感冒
+<<list-links "[tag[止痛感冒]tag[Medicine]]">>
+
+! 肠胃药
+<<list-links "[tag[肠胃药]tag[Medicine]]">>
+
+! 蚊叮虫咬
+<<list-links "[tag[蚊叮虫咬]tag[Medicine]]">>
+
+! 外伤扭伤
+<<list-links "[tag[外伤扭伤]tag[Medicine]]">>
+
+! 过敏
+<<list-links "[tag[过敏]tag[Medicine]]">>
+
+! 睡眠
+<<list-links "[tag[睡眠]tag[Medicine]]">>
+
+! 营养
+<<list-links "[tag[营养]tag[Medicine]]">>
+
+! 防护消毒
+<<list-links "[tag[防护消毒]tag[Medicine]]">>
+
+! 其他
+<<list-links "[tag[其他]tag[Medicine]]">>

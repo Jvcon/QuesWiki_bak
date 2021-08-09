@@ -1,9 +1,13 @@
 created: 20210518091750872
 creator: Jacques
-modified: 20210518091829499
+modified: 20210520055425039
 modifier: Jacques
 title: $:/config/FileSystemPaths
 type: text/vnd.tiddlywiki
 
 [tag[PrivateContent]addprefix[private-QuesWiki/tiddlers/]]
 [tag[$:/tags/trashbin]addprefix[private-QuesWiki/tiddlers/]]
+[tag[Journal]addprefix[private-QuesWiki/tiddlers/Journal/]]
+[tag[Archive]addprefix[private-QuesWiki/tiddlers/Archive/]]
+[tag[Flow]addprefix[private-QuesWiki/tiddlers/Flow/]]
+

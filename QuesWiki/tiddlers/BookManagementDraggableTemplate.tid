@@ -1,0 +1,9 @@
+created: 20200915134018521
+creator: Jacques
+modified: 20210519022629370
+modifier: Jacques
+title: BookManagementDraggableTemplate
+tmap.id: b5baa441-31ed-46cd-9ffb-6ce1ac5eee73
+type: text/vnd.tiddlywiki
+
+<$checkbox tag="read"> <$link/></$checkbox>

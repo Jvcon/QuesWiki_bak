@@ -1,0 +1,24 @@
+caption: 6-运算
+created: 20210419032137710
+creator: Jacques
+modified: 20210519022633431
+modifier: Jacques
+tags: Python
+title: 运算
+tmap.id: a17f6524-9601-4b00-b5a3-7d29406721c0
+type: text/vnd.tiddlywiki
+
+- 布尔值可以用and、or和not运算
+- 除法 与 地板除
+- 余数运算
+
+```py
+>>> 10 / 3
+3.3333333333333335
+>>> 9 / 3
+3.0
+>>> 10 // 3
+3
+>>> 10 % 3
+1
+```

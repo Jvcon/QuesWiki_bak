@@ -1,0 +1,43 @@
+caption: Bartending
+created: 20200914083439972
+creator: Jacques
+modified: 20210601151805503
+modifier: Jacques
+sort: 430
+tags: Life
+title: Bartending
+tmap.id: a89c6c38-0ebb-4581-bfc0-0d1064c2789f
+type: text/vnd.tiddlywiki
+
+! Vodka
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "Vodka" "sort[title]">>
+</div>
+
+{{Vodka}}
+
+! Rum
+{{Rum}}
+
+! Gim
+{{Gim}}
+
+! Tequila
+{{Tequila}}
+
+! Whiskey
+{{Whiskey}}
+
+! Brandy
+{{Brandy}}
+
+! Vermouth
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable "Vermouth" "sort[title]">>
+</div>
+
+! Liqueur
+
+{{Liqueur}}

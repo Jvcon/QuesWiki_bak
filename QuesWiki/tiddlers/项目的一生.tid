@@ -1,0 +1,33 @@
+created: 20210423033157730
+creator: Jacques
+modified: 20210519022633555
+modifier: Jacques
+tags: 
+title: 项目的一生
+tmap.id: dabdab05-d693-4f64-901e-2f9042397426
+type: text/vnd.tiddlywiki
+
+[[plantuml[
+@startmindmap
+
+* 项目的一生
+++ kick off
++++ 晨会
++++ 日报
++++ 评审会
++++ 项目变更申请
+++ 文档
++++ BRD
++++ MRD
++++ PRD
++++ FSD
+++ 评审
++++ 需求评审
++++ 设计评审
++++ 测试评审
+++ 项目管理
++++ 文档
++++ 流程
++++ 敏捷
+@endmindmap
+]]]

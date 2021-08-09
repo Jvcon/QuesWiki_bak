@@ -1,0 +1,11 @@
+caption: Rolly - Android RSS 新选择
+created: 20190813021116903
+creator: Jacques
+modified: 20210519022630784
+modifier: Jacques
+tags: RSS Free Android
+title: Rolly
+tmap.id: cf80e970-ef6d-4c87-9426-6b1daff53a7c
+type: text/vnd.tiddlywiki
+
+和 Polly 一样，Rolly 的设计风格也是一切从简，好在当初 Polly 上那套色彩丰富的主题系统在 Rolly 上得到了延续，除了 11 套不同色彩方案的主题外，Rolly 还提供了更加符合当下设计潮流的夜间模式，开启后即可换上夜间使用更加舒适的暗色主题；订阅功能上，Rolly 尚不支持 Inoreader 这类第三方 RSS 服务，但首次使用时可以通过 OPML 文件导入订阅列表或索性点击添加订阅界面的 RSS Hub 按钮前往搜寻——对入门用户来说稍有门槛，但稍加摸索上手也花不了多少时间。如果你愿意注册一个账号，Rolly 还能在不同设备之间自动同步你的订阅内容。

@@ -1,0 +1,12 @@
+caption: Audio
+created: 20190814061436467
+creator: Jacques
+modified: 20210519022629249
+modifier: Jacques
+tags: Application
+title: Audio
+tmap.id: cfdc661b-3be6-481f-931c-5dc32f8d3afd
+type: text/vnd.tiddlywiki
+
+Search <$edit-text tiddler="$:/temp/demo/dtable/search" filed=text tag=input default=""/> <$button set="$:/temp/demo/dtable/search" setTo="" tooltip="clear searchbox">x</$button>
+<$macrocall $name=table-dynamic filter="[tag[Audio]search{$:/temp/demo/dtable/search}]" sortOp="sortan" class="w-100" indexes="tbl-expand title tags site author"  caption="''Audio''" stateTiddler="Audio"/>
