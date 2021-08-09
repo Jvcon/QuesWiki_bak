@@ -15,7 +15,7 @@ const execAndLog = (command, options) => console.log(String(execSync(command, op
 
 module.exports = function build() {
   // npm run build:prepare
-  execAndLog(`rm -r ${repoFolder}/public`);
+  //execAndLog(`rm -r ${repoFolder}/public`);
   // npm run build:public
   execAndLog(
     `cp -r ${tiddlyWikiFolder}/public/ ./public && cp ${tiddlyWikiFolder}/tiddlers/favicon.ico ./public/favicon.ico && cp ${tiddlyWikiFolder}/tiddlers/TiddlyWikiIconWhite.png ./public/TiddlyWikiIconWhite.png && cp ${tiddlyWikiFolder}/tiddlers/TiddlyWikiIconBlack.png ./public/TiddlyWikiIconBlack.png`,
