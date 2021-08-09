@@ -313,36 +313,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Electronic-Buyoo&apos;%2520by%2520Jacques</loc>
-		<lastmod>2021-05-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;New%2520Tiddler&apos;%2520by%2520Jacques</loc>
-		<lastmod>2021-05-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;Python&apos;%2520by%2520Jacques</loc>
-		<lastmod>2021-05-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;ToDo%2520Item%25201&apos;</loc>
-		<lastmod>2021-05-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:Draft%2520of%2520&apos;slister%2520-%2520多媒体预览插件%2520#Totalcmd::Plugins&apos;%2520by%2520jacques</loc>
-		<lastmod>2021-05-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:E-Book</loc>
 		<lastmod>2021-05-19</lastmod>
 		<changefreq>monthly</changefreq>
