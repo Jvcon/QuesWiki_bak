@@ -164,7 +164,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Buyoo</loc>
-		<lastmod>2021-05-19</lastmod>
+		<lastmod>2021-08-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -656,7 +656,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Life</loc>
-		<lastmod>2021-05-19</lastmod>
+		<lastmod>2021-08-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -716,7 +716,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Management</loc>
-		<lastmod>2021-05-19</lastmod>
+		<lastmod>2021-08-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -1310,12 +1310,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:bibliotheque</loc>
-		<lastmod>2021-05-19</lastmod>
+		<lastmod>2021-08-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:/home/runner/work/QuesWiki/QuesWiki/QuesWiki/tiddlers/favicon.ico</loc>
+		<loc>https://wiki.onetwo.ren/#:favicon.ico</loc>
+		<lastmod>2021-08-09</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
