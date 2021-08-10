@@ -1,0 +1,19 @@
+tags: 
+title: $:/plugins/joshuafontany/oembed/embed-link
+
+\define embedActions()
+null
+\end
+
+<div class="tc-embedded-link">
+<$button actions=<<embedActions>> >
+    <$list variable="icon" filter="[[$:/config/plugins/joshuafontany/oembed/icons]getindex<requestProvider>else[$:/core/images/link]]" >
+        <$transclude tiddler=<<icon>> >
+            <$transclude tiddler="$:/core/images/globe"/>
+        </$transclude>
+    </$list>
+</$button>
+    <a href=<<url>> class="tc-tiddlylink-external" target="_blank" rel="noopener noreferrer">
+        <$text text=<<url>> />
+    </a>
+</div>

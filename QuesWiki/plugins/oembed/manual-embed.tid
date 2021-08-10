@@ -1,0 +1,14 @@
+tags: 
+title: $:/plugins/joshuafontany/oembed/manual-embed
+
+<$set name="request" filter="[<url>encodeuricomponent[]addprefix[?url=]addprefix<requestEndpoint>]">
+
+''Request Oembed from:'' <<urlDomain>>
+
+<$macrocall $name="tabs" 
+    tabsList="[[$:/plugins/joshuafontany/oembed/manual-embed-html]] [[$:/plugins/joshuafontany/oembed/manual-embed-json]]"
+    default={{{ [all[current]subfilter{$:/config/plugins/joshuafontany/oembed/manual-embed-type}] }}}
+    state="$:/state/tab/oembed"
+    class="tc-oembed-manual" />
+
+</$set>
