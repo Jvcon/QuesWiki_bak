@@ -1,4 +1,4 @@
 
 [submodule "QuesWiki/plugins/oembed"]
-	path = ./QuesWiki/plugins/oembed
+	path = QuesWiki/plugins/oembed
 	url = https://github.com/joshuafontany/TW5-Oembed.git
