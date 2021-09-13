@@ -5,3 +5,4 @@ QuesWiki/output
 QuesWiki/tiddlers/private-QuesWiki
 /scripts/daemon
 $__StoryList.tid
+$__StoryList_*.tid
