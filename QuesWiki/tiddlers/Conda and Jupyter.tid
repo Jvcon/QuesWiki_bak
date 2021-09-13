@@ -1,0 +1,15 @@
+created: 20210810103711583
+creator: Jacques
+modified: 20210810103730392
+modifier: Jacques
+tags: Python
+title: Conda and Jupyter
+tmap.id: 568f8726-a94f-493c-9d2d-c421028d6c42
+type: text/vnd.tiddlywiki
+
+```
+conda install jupyter notebook -y
+conda install -c conda-forge jupyter_nbextensions_configurator -y
+conda install nb_conda -y
+conda install pyreadline -y
+```
