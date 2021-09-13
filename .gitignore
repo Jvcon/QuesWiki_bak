@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /public
-PublicWiki/output
-PublicWiki/tiddlers/private-QuesWiki
+QuesWiki/output
+QuesWiki/tiddlers/private-QuesWiki
 /scripts/daemon
 $__StoryList.tid
